@@ -20,13 +20,13 @@ msgstr ""
 #: website/content/en/commercial/_index.adoc:1
 #: website/content/en/commercial/_index.adoc:6
 #, no-wrap
-msgid "Commercial Vendors"
+msgid "Commercial vendors"
 msgstr ""
 
 #. type: Plain text
 #: website/content/en/commercial/_index.adoc:10
 msgid ""
-"The power, flexibility, and reliability of FreeBSD attract a wide variety of "
+"The power, flexibility, reliability of FreeBSD attract a wide variety of "
 "users and vendors.  Below is a list of vendors offering commercial products, "
 "services, and/or consulting for FreeBSD."
 msgstr ""
@@ -34,7 +34,7 @@ msgstr ""
 #. type: Plain text
 #: website/content/en/commercial/_index.adoc:13
 msgid ""
-"link:consult_bycat[Consulting Services] Whether you are just starting out "
+"link:consult_bycat[The Consulting Services] Whether you are just starting out "
 "with FreeBSD, or need to complete a large project, hiring consultants might "
 "be your answer.  You can see the link:consult[alphabetical] list, or, if you "
 "prefer, view it by link:consult_bycat[categories]."
