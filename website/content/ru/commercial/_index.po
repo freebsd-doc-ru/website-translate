@@ -1,8 +1,9 @@
+# Weblate Admin <admin@example.com>, 2025.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-08 10:18+0000\n"
+"PO-Revision-Date: 2025-11-04 15:56+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Russian <https://136.115.173.160/projects/freebsd-website/"
+"Language-Team: Russian <https://atlas365.biz/projects/freebsd-website/"
 "websitecontentencommercialindex-po/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -42,3 +43,14 @@ msgstr ""
 "вы начинающим пользователем FreeBSD или вам нужно завершить большой проект, "
 "наемный консультант может помочь. Вы можете просмотреть список link: consult"
 "[в алфавитном порядке] или разбитым по link: consult_bycat[категориям]"
+
+#. type: Plain text
+#: website/content/en/commercial/_index.adoc:15
+msgid ""
+"link:hardware[Hardware Vendors] Need specialized tools, looking to buy a new "
+"desktop, or to fill a cage with rack mount servers that come with FreeBSD "
+"pre-installed? These companies may have what you need!"
+msgstr ""
+"RU link:hardware[Hardware Vendors] Need specialized tools, looking to buy a "
+"new desktop, or to fill a cage with rack mount servers that come with "
+"FreeBSD pre-installed? These companies may have what you need!"
